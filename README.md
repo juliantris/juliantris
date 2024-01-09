@@ -1,6 +1,8 @@
 ### Hi there 👋
-# <summary><strong>Hi there</strong></summary>
-Life will be exciting if there is a ZX 25 and Nissan Skyline R34 in your garage
+# <summary><strong>Hello friends</strong></summary>
+I study at SMK NEGERI 8 JEMBER and I am a street vendor at Info Global
+and my life motto
+I want to have a ZX 25 and Skyline R34 in my garage
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -14,6 +16,7 @@ Life will be exciting if there is a ZX 25 and Nissan Skyline R34 in your garage
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
+     - :mailbox: How to reach me: <a href="mailto:juliantrispratama@gmail.com">Email me!</a></br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
