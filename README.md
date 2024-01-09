@@ -17,7 +17,7 @@ I want to have a ZX 25 and Skyline R34 in my garage
     - :keyboard:I'm learning how to use git. </br>
     - :speech_balloon: Ask me about anything.</br>
      - :mailbox: How to reach me: <a href="mailto:juliantrispratama@gmail.com">Email me!</a></br>
-    - :cloud: Pronouns: HER/Her. </br>
+    - :cloud: Pronouns: HE/Him. </br>
     - :game_die:Having a ZX 25 and Skyline R34 is my dream. </br>
 <p>
  
