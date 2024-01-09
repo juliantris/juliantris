@@ -1,6 +1,7 @@
 ### Hi there 👋
 # <summary><strong>Hi there</strong></summary>
 Life will be exciting if there is a ZX 25 and Nissan Skyline R34 in your garage
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -27,4 +28,8 @@ Life will be exciting if there is a ZX 25 and Nissan Skyline R34 in your garage
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+<a href="https://yours.com/">
+  <img align="left" alt="Goo's discord" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
+</a>
+
 
